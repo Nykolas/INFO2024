@@ -8,7 +8,6 @@ class Estudiantes:
         self.dni = dni
 
 lista_estudiantes = list()
-#Crear un objeto de la clase coche
 estudiante_1 = Estudiantes('Franco', 'Godoy', 'Resistencia, Chaco', '44644703')
 otro_estudiante = Estudiantes('Alan', 'Godoy', 'Resistencia, Chaco', '22111002')
 
